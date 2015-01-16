@@ -1,5 +1,5 @@
 ### My First File
-* Welcome
+## Welcome
 * What a wonderful world
 
 The quick brown fox jumps over the lazy dog
